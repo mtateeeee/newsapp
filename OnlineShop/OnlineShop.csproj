@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E76B5A7-1FFB-473F-8DFA-BBE15C1D95D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OnlineShop</RootNamespace>
+    <AssemblyName>OnlineShop</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.1.5.3">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRating">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuRating.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>C:\Users\HP\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomControls">
+      <HintPath>C:\Users\HP\Desktop\CustomControls.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.1.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp.Pro, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.Pro.6.1.1\lib\net472\FontAwesome.Sharp.Pro.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZKWeb.Fork.QRCoder.1.3.0\lib\net461\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Common, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.7.0.0\lib\net462\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZKWeb.System.Drawing, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZKWeb.System.Drawing.4.0.0\lib\net45\ZKWeb.System.Drawing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNews.Designer.cs">
+      <DependentUpon>AddNews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\NewsBLL.cs" />
+    <Compile Include="Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cart.Designer.cs">
+      <DependentUpon>Cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CartItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartItem.Designer.cs">
+      <DependentUpon>CartItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckOut.Designer.cs">
+      <DependentUpon>CheckOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckOutItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CheckOutItem.Designer.cs">
+      <DependentUpon>CheckOutItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cont.cs" />
+    <Compile Include="Danhsachtaikhoan.cs" />
+    <Compile Include="ds.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\NewsDTO.cs" />
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HistoryItem.Designer.cs">
+      <DependentUpon>HistoryItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryItemInfo.Designer.cs">
+      <DependentUpon>HistoryItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemInfo.Designer.cs">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderHistory.Designer.cs">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderItem.Designer.cs">
+      <DependentUpon>OrderItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlaceOrderComplete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlaceOrderComplete.Designer.cs">
+      <DependentUpon>PlaceOrderComplete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm.Designer.cs">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShopItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShopItem.Designer.cs">
+      <DependentUpon>ShopItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShoppingHistory.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="TaiKhoan.cs" />
+    <Compile Include="TrackOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrackOrder.Designer.cs">
+      <DependentUpon>TrackOrder.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNews.resx">
+      <DependentUpon>AddNews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cart.resx">
+      <DependentUpon>Cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CartItem.resx">
+      <DependentUpon>CartItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckOut.resx">
+      <DependentUpon>CheckOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckOutItem.resx">
+      <DependentUpon>CheckOutItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryItem.resx">
+      <DependentUpon>HistoryItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryItemInfo.resx">
+      <DependentUpon>HistoryItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemInfo.resx">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderHistory.resx">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderItem.resx">
+      <DependentUpon>OrderItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlaceOrderComplete.resx">
+      <DependentUpon>PlaceOrderComplete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Receipt.rdlc" />
+    <EmbeddedResource Include="ReportForm.resx">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShopItem.resx">
+      <DependentUpon>ShopItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrackOrder.resx">
+      <DependentUpon>TrackOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ds.xsc">
+      <DependentUpon>ds.xsd</DependentUpon>
+    </None>
+    <None Include="ds.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ds.xss">
+      <DependentUpon>ds.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="QRcode\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EarPhone\64Audio A12t.jpg" />
+    <Content Include="EarPhone\64Audio A2e.jpg" />
+    <Content Include="EarPhone\64Audio A4t Custom IEM.jpg" />
+    <Content Include="EarPhone\64Audio Duo.jpg" />
+    <Content Include="EarPhone\64Audio N8.jpg" />
+    <Content Include="EarPhone\64Audio Nio.jpg" />
+    <Content Include="EarPhone\64Audio Tia Trio.jpg" />
+    <Content Include="EarPhone\64Audio U18s.jpg" />
+    <Content Include="EarPhone\64Audio U6t.jpg" />
+    <Content Include="EarPhone\7Hz Salnotes ZERO.jpg" />
+    <Content Include="EarPhone\7Hz Timeless.jpg" />
+    <Content Include="EarPhone\7Hz x Crinacle Salnotes Dioko.jpg" />
+    <Content Include="EarPhone\Film The signing of Joao Felix on loan from Atletico Madrid for the remainder of the season.jpg" />
+    <Content Include="EarPhone\Film Ave completed the signing of Joao Felix on loan from Atletico Madrid for the remainder of the season.jpg" />
+    <Content Include="EarPhone\Film Completed the signing of Joao Felix on loan from Atletico Madrid for the remainder of the season.jpg" />
+    <Content Include="EarPhone\Film consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.jpg" />
+    <Content Include="EarPhone\MEDIA Gerwyn Price admits he is still unsure about whether he will return to play in the World Darts Championship.jpg" />
+    <Content Include="EarPhone\MEDIA 2.png" />
+    <Content Include="EarPhone\MEDIA Chelsea have completed the signing of on loan from Atletico Madrid for the remainder of the season.jpg" />
+    <Content Include="EarPhone\MEDIA Gerwyn Price admits he is still about whether he will return to play in the World Darts Championship.jpg" />
+    <Content Include="EarPhone\MEDIA the signing of Joao Felix on loan from Atletico Madrid for the remainder of the season.jpg" />
+    <Content Include="EarPhone\SPORT Chelsea have completed the signing of Joao Felix on loan from Atletico Madrid for the remainder of the season.jpg" />
+    <Content Include="EarPhone\SPORT Gerwyn Price admits he is still unsure about whether he will return to play in the World Darts Championship.jpg" />
+    <Content Include="EarPhone\HiFiMan RE1000.jpg" />
+    <Content Include="EarPhone\HiFiMan RE2000.jpg" />
+    <Content Include="EarPhone\SPORT Manchester United face Nottingham Forest while Southampton take on Newcastle.jpg" />
+    <Content Include="EarPhone\SPORT Moussa Djenepo%27s special strike sends Saints on way to remarkable cup shock.jpg" />
+    <Content Include="EarPhone\SPORT Naomi Osaka has announced she is pregnant with her first child and is planning to return to action at next year%27s Australian Open.jpg" />
+    <Content Include="EarPhone\SPORT RE400.jpg" />
+    <Content Include="EarPhone\HiFiMan RE600S V2.jpg" />
+    <Content Include="EarPhone\HiFiMan RE800.jpg" />
+    <Content Include="EarPhone\Sony IER-M7.jpg" />
+    <Content Include="EarPhone\Sony IER-M9.jpg" />
+    <Content Include="EarPhone\Sony IER-Z1R.jpg" />
+    <Content Include="EarPhone\Sony MDR-EX155AP.jpg" />
+    <Content Include="EarPhone\Sony MDR-EX15AP.jpg" />
+    <Content Include="EarPhone\Sony MDR-XB55AP.jpg" />
+    <Content Include="EarPhone\Sony XBA-Z5.jpg" />
+    <Content Include="EarPhone\SoundMAGIC E10C.jpg" />
+    <Content Include="EarPhone\SoundMAGIC E11C.jpg" />
+    <Content Include="EarPhone\SoundMAGIC E50C.jpg" />
+    <Content Include="EarPhone\SoundMAGIC E80.jpg" />
+    <Content Include="EarPhone\SoundMAGIC ES19S.jpg" />
+    <Content Include="EarPhone\SoundMAGIC ES20BT.jpg" />
+    <Content Include="EarPhone\SoundMAGIC ES30D.jpg" />
+    <Content Include="EarPhone\THE WORLD Yet another military reshuffle in Russia, as chief of armed forces.jpg" />
+    <Content Include="EarPhone\THE WORLD A major Russian attack could come.jpg" />
+    <Content Include="EarPhone\THE WORLD The new structure implies that Gerasimov’s seniority.jpg" />
+    <Content Include="EarPhone\THE WORLD But the decision puts Gerasimov, who has been chief of the General Staff for more than a decade, closer to direct supervision of the campaign.jpg" />
+    <Content Include="EarPhone\THE WORLD Gerasimov has sometimes gone weeks without public appearances and was not seen.jpg" />
+    <Content Include="EarPhone\WOMAN as chief of armed forces lm conseqan resport cuvu guit mot rplay.jpg" />
+    <Content Include="EarPhone\WOMAN There’s been a long history of tension between Prigozhin and Russian.jpg" />
+    <Content Include="EarPhone\WOMAN It is inconceivable that Gerasimov’s appointment.jpg" />
+    <Content Include="EarPhone\WOMAN Galeotti says Gerasimov is “hanging by a thread”.jpg" />
+    <Content Include="EarPhone\WOMAN The arrival of Russia’s “little green men” on the Ukrainian peninsula.jpg" />
+    <Content Include="Icon\downarrow.png" />
+    <Content Include="Icon\rightarrow.png" />
+    <Content Include="Icon\Added.png" />
+    <None Include="Resources\Earth_icon_2.png" />
+    <None Include="Resources\star-vector-png-transparent-image-pngpix-21.png" />
+    <None Include="Resources\Untitled-1.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="XML\EarPhone.xml" />
+    <Content Include="XML\PromoCode.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

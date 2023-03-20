@@ -1,0 +1,293 @@
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.MainMenu.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Properties.Resources.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.GenerateResource.cache
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe.licenses
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ShopItem.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ItemInfo.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Cart.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\CustomControls.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CartItem.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\FontAwesome.Sharp.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Guna.UI2.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CheckOut.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ReportForm.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\RdlCompile.cache
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\RdlCompile.compiled
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\CustomControls.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Cart.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CartItem.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CheckOut.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ItemInfo.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.MainMenu.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Properties.Resources.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ReportForm.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ShopItem.resources
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe.licenses
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\EnvDTE.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\EnvDTE.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\stdole.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Microsoft.MSXML.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CheckOutItem.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.TrackOrder.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Newtonsoft.Json.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\QRCoder.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\ZKWeb.System.Drawing.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\Newtonsoft.Json.xml
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.PlaceOrderComplete.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\System.Drawing.Common.dll
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\bin\Debug\System.Drawing.Common.xml
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.HistoryItem.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.OrderHistory.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.HistoryItemInfo.resources
+D:\NhatNguyen\HK1 - Nam_3\Ngôn Ngữ Lập Trình C#\Practice\TH02\OnlineShop\OnlineShop\obj\Debug\OnlineShop.OrderItem.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\QRCoder.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ZKWeb.System.Drawing.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\System.Drawing.Common.xml
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Cart.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CartItem.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CheckOut.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.CheckOutItem.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.HistoryItem.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.HistoryItemInfo.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ItemInfo.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.MainMenu.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.OrderHistory.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.OrderItem.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.PlaceOrderComplete.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ReportForm.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ShopItem.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.TrackOrder.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe.licenses
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.frmLogin.resources
+C:\Users\Administrator\Desktop\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.AddNews.resources
